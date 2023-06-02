@@ -1,1 +1,1 @@
-# AI-Exam-Wizard
+# EduHub
