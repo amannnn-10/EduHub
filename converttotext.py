@@ -33,3 +33,4 @@ for filename in os.listdir(input_folder):
         output_file_path = os.path.join(output_folder, os.path.splitext(filename)[0] + ".txt")
         with open(output_file_path, 'w') as f:
             f.write(text)
+
