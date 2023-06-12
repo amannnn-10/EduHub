@@ -1,0 +1,42 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.11.0",
+    "heartbeatAt": "2023-06-12T05:07:09.995646",
+    "startedAt": "2023-06-12T05:07:07.654351",
+    "docker": null,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "D:\\EduHub\\EduHub\\new.py",
+    "codePath": "new.py",
+    "git": {
+        "remote": "https://github.com/amannnn-10/EduHub.git",
+        "commit": "cd134db0f498f792f179cf80535b81c5a8ae5c39"
+    },
+    "email": "amann.shrivastava@gmail.com",
+    "root": "D:/EduHub/EduHub",
+    "host": "Amannnn",
+    "username": "mintu",
+    "executable": "C:\\Python311\\python.exe",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1805.0,
+        "min": 0.0,
+        "max": 3301.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1805.0,
+            "min": 0.0,
+            "max": 3301.0
+        }
+    ],
+    "disk": {
+        "total": 118.09960556030273,
+        "used": 85.1373176574707
+    },
+    "memory": {
+        "total": 7.345554351806641
+    }
+}
