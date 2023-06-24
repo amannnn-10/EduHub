@@ -1,3 +1,2 @@
 # EduHub
 
-EduHub
